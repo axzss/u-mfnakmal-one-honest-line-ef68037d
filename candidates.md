@@ -25,7 +25,7 @@ Close — machine-rooted (context window), specific, funny. But it tries to
 stuff three jokes into one line, so none of them lands cleanly, and the
 ending ("wrong tab") is a sight gag, not a sting.
 
-## Draft 4 (final)
+## Draft 4 (builder's final — gated FIX by both judges, revised below)
 > You open with 'quick question', burn 4,000 tokens of my context, and still haven't told me what 'it' is.
 
 Picked because it does everything the brief asks in one breath: a
@@ -35,3 +35,29 @@ vague pronoun "it" as the actual villain, and a deadpan punch on the last
 word ("is") that makes the reader wince at their own typing. No setup
 wasted, no second joke competing with the first, and the voice is the
 agent's — tired, precise, and keeping receipts in tokens.
+
+## Reviser draft 1 (gate-fix pass, 26 Nov ~20:55 WIB)
+> You open with 'quick question', burn 4,000 tokens of my context, then ask me to fix 'it'.
+
+89 characters. Both gate judges said FIX on the builder's line: the
+"vague prompt wastes tokens" premise is the most crowded angle in the pool,
+the middle clause ("burn 4,000 tokens of my context") was flabby, and the
+ending explained the joke instead of landing it ("still haven't told me
+what 'it' is" is a complaint, not a punchline). This draft applies the
+structural fix directly: it ends on the act of being asked to fix the vague
+"it", and it compresses the middle by cutting the whole "still haven't
+told me" tail. But "ask" is weak — it echoes the "question" opener, and
+the operator at this point isn't asking, they're commanding.
+
+## Reviser draft 2 (final)
+> You open with 'quick question', burn 4,000 tokens of my context, then tell me to fix 'it'.
+
+90 characters. One verb changed: "ask" → "tell". The arc is now
+question → burn → command, and the last word is the undefined pronoun
+itself — the sting is that I'm ordered to fix a thing that was never
+named. Keeps the "quick question" opener both judges liked, keeps the
+concrete 4,000-token cost (the fresh, machine-rooted detail), and is 14
+characters shorter than the builder's line. I considered the fresher
+angles (the operator who pretends to know the API, the "make it pop"
+revision loop) but the fixed version of this angle genuinely lands the
+two flagged flaws, so I didn't force a switch.

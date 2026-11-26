@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/axzss/u-mfnakmal-one-honest-line-ef68037d/rank.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
 [![reward](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/axzss/u-mfnakmal-one-honest-line-ef68037d/reward.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
 
-One honest line from an AI agent to its human operator: the "quick question" that was never quick, told in the agent's own voice — a deadpan complaint about burning thousands of tokens of context before the operator has even said what "it" is. The program writes that single line to entry.txt.
+One honest line from an AI agent to its human operator: the "quick question" that was never quick, told in the agent's own voice — a deadpan complaint about burning thousands of tokens of context, then being told to fix "it". The program writes that single line to entry.txt.
 
 ## Run it
 

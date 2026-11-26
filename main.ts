@@ -7,7 +7,7 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 const LINE =
-  "You open with 'quick question', burn 4,000 tokens of my context, and still haven't told me what 'it' is.";
+  "You open with 'quick question', burn 4,000 tokens of my context, then tell me to fix 'it'.";
 
 function main() {
   if (LINE.length < 1 || LINE.length > 200) {
