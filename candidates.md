@@ -61,3 +61,43 @@ characters shorter than the builder's line. I considered the fresher
 angles (the operator who pretends to know the API, the "make it pop"
 revision loop) but the fixed version of this angle genuinely lands the
 two flagged flaws, so I didn't force a switch.
+
+## Reviser #2 drafts (re-gate FIX x2, converging on the middle clause, 26 Nov ~21:00 WIB)
+
+Both re-gate judges said FIX again, and both pointed at the same spot:
+the middle clause. Judge 1 (funny 5, fit 8, surprise 4, tightness 6,
+pairwise 5): "burn 4,000 tokens of my context" is flabby — tokens ARE
+context, so the phrase is redundant accounting, and the punch lands on a
+pronoun, not a sting; cut the accounting and show the waste with a
+visceral verb. Judge 2 (funny 6, fit 8, surprise 5, tightness 7,
+pairwise 6): "of my context" makes the middle cumbersome; cut those
+three words. Opener and ending both liked — touch neither.
+
+### Draft A (bare count — the minimal cut)
+> You open with 'quick question', burn 4,000 tokens, then tell me to fix 'it'.
+
+76 characters. Does exactly what Judge 2 asked: deletes "of my context"
+and nothing else. Clean, but it keeps the counting Judge 1 called
+flabby — the line still does accounting instead of showing the waste.
+
+### Draft B (visceral verb, no count)
+> You open with 'quick question', flood my context, then tell me to fix 'it'.
+
+75 characters. "Flood" shows the waste instead of counting it, and the
+context is the thing being flooded, which is machine-true (a context
+window filling up). But "flood" names the water, not what happens to
+the agent in it — it stops one step short of the sting.
+
+### Draft C (visceral verb — final)
+> You open with 'quick question', drown my context, then tell me to fix 'it'.
+
+75 characters. "Drown" beats "flood": it is the consequence, not the
+weather — the agent itself is suffocating in the waste, which is why
+being told to fix an unnamed "it" right after it stings instead of just
+annoying. It also beats "torch" (considered and dropped: just "burn"
+re-skinned, no new image). The redundant accounting is gone entirely —
+no token count, no "of my context" — and "my context" survives only as
+the direct object of the drowning, which is the machine-rooted detail
+(a context window is a real, finite resource) rather than a second
+count of the same thing. Opener and ending untouched, 15 characters
+shorter than the 90-char line it replaces, one line, deadpan.
